@@ -73,41 +73,54 @@ const hossain = {
 
 ## 🚀 Current Focus
 
-<table align="center" cellpadding="18">
+<table align="center">
 <tr>
+
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/source-code.png" width="65"/>
 
 ### Frontend
+
 <div align="left">
-• HTML <br>
-• CSS  <br>
-• JavaScript <br>
-• React <br>
-• Tailwind CSS <br>  
+
+•&nbsp;HTML <br>
+•&nbsp;CSS <br>
+•&nbsp;JavaScript <br>
+•&nbsp;React <br>
+•&nbsp;Tailwind&nbsp;CSS
+
 </div>
 </td>
+
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/server.png" width="65"/>
 
 ### Backend
+
 <div align="left">
-• Node.js <br>
-• Express.js <br>
-• REST API <br>
-• Authentication <br>  
+
+•&nbsp;Node.js <br>
+•&nbsp;Express.js <br>
+•&nbsp;REST&nbsp;API <br>
+•&nbsp;Authentication
+
 </div>
 </td>
+
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/database.png" width="65"/>
 
 ### Database
+
 <div align="left">
-• MongoDB <br>
-• Firebase <br>
-• Data Modeling
+
+•&nbsp;MongoDB <br>
+•&nbsp;Firebase <br>
+•&nbsp;Data&nbsp;Modeling
+
 </div>
 </td>
+
 </tr>
 </table>
 ---
