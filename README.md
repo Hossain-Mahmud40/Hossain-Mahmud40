@@ -127,25 +127,24 @@ const hossain = {
 
 # 📊 Contribution Graph
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hossain-Mahmud40&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hossain-Mahmud40&bg_color=0D1117&color=C77DFF&line=C77DFF&point=FFFFFF&area=true&hide_border=true&custom_title=Hossain%20Mahmud's%20Contribution%20Graph"/>
+</p>
 
 ---
 
 # 🛠 Tools I Use
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/VS%20Code-1A1B27?style=for-the-badge&logo=visualstudiocode&logoColor=9D4EDD"/>
+<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=9D4EDD"/>
+<img src="https://img.shields.io/badge/Chrome-111827?style=for-the-badge&logo=googlechrome&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 
-<img src="https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=F05032"/>
-
-<img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/Figma-1A1B27?style=for-the-badge&logo=figma&logoColor=C77DFF"/>
-
-<img src="https://img.shields.io/badge/Chrome-1A1B27?style=for-the-badge&logo=googlechrome&logoColor=9D4EDD"/>
-
-</p>
+</div>
 
 ---
 
@@ -157,15 +156,15 @@ const hossain = {
 <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:hossainpromil6286@gmail.com">
 <img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=C77DFF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/hossain-mahmud-4588573ab/">
 <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=9D4EDD"/>
 </a>
 
-<a href="https://www.facebook.com/your-facebook">
+<a href="https://www.facebook.com/hossainmp40">
 <img src="https://img.shields.io/badge/Facebook-1A1B27?style=for-the-badge&logo=facebook&logoColor=C77DFF"/>
 </a>
 
@@ -181,12 +180,16 @@ const hossain = {
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution
 
-> Snake animation কাজ করাতে GitHub Actions লাগবে।
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+## 💜 Thanks for visiting my profile
+
+### ⭐ Follow me on my developer journey
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:9D4EDD,100:7F00FF&height=140&section=footer"/>
